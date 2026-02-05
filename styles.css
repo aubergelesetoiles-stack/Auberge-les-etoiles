@@ -502,7 +502,7 @@ section {
 }
 
 .footer-social a:hover {
-    background: var(--white);
+    background: var(--black);
     transform: scale(1.1);
 }
 
