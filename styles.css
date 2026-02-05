@@ -423,7 +423,7 @@ section {
 .map-link {
     display: inline-block;
     margin-top: 0.5rem;
-    color: var(--gold) !important;
+    color: var(--#000000) !important;
 }
 
 .social-links {
